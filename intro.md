@@ -31,12 +31,12 @@ Estimated Workshop Time: 120 minutes
 - Create Your Analytics Cloud Instance
 - Quick Walk-through
 
-[Lab 300 - Using Oracle Analytics Cloud (OAC)](/oac.md)
+[Lab 300 - Loading data into ADW (ADW)](/oac.md)
+- Create your user AuthToken
+- Load data from Object Storage into ADW
+- Load data as external table
+
+[Lab 400 - Using Oracle Analytics Cloud (OAC)](/oac.md)
 - Create the connection from Oracle Analytics Cloud to Autonomous Database
 - Prepare the dataset
 - Create Visualizations using your data sets
-
-[Next Steps](/Next/README.md)
-- Upgrade Instances to Paid
-- Want to Learn More?
-- Troubleshooting
