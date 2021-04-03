@@ -40,3 +40,7 @@ Estimated Workshop Time: 120 minutes
 - Create the connection from Oracle Analytics Cloud to Autonomous Database
 - Prepare the dataset
 - Create Visualizations using your data sets
+
+[Lab 500 - Create Data Model (ADW)](/oac.md)
+- Create data model
+
