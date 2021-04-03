@@ -27,7 +27,7 @@ Estimated Workshop Time: 120 minutes
 - Create Your Autonomous Database Instance
 - Quick Walk-through
 
-[Lab 200 - Provisioning your Oracle Analytics Cloud (OAC) instance](/Lab2/README.md)
+[Lab 200 - Provisioning your Oracle Analytics Cloud (OAC) instance](/provision-oac.md)
 - Create Your Analytics Cloud Instance
 - Quick Walk-through
 
