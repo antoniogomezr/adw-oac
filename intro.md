@@ -16,3 +16,27 @@ To run the workshop, you will need an Oracle Free Tier Account, with a provision
 
 Estimated Workshop Time: 120 minutes
 *At this point, you are ready to start learning! Please proceed*
+
+## Table of Contents
+
+[Get Started - Signing Up for your Oracle Cloud Free Tier Account](/Lab0/README.md)
+- Create Your Free Trial Account
+- Sign in to Your Account
+
+[Lab 100 - Provisioning your Autonomous Database instance](/Lab1/README.md)
+- Create Your Autonomous Database Instance
+- Quick Walk-through
+
+[Lab 200 - Provisioning your Oracle Analytics Cloud (OAC) instance](/Lab2/README.md)
+- Create Your Analytics Cloud Instance
+- Quick Walk-through
+
+[Lab 300 - Using Oracle Analytics Cloud (OAC)](/Lab3/README.md)
+- Create the connection from Oracle Analytics Cloud to Autonomous Database
+- Prepare the dataset
+- Create Visualizations using your data sets
+
+[Next Steps](/Next/README.md)
+- Upgrade Instances to Paid
+- Want to Learn More?
+- Troubleshooting
