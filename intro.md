@@ -31,7 +31,7 @@ Estimated Workshop Time: 120 minutes
 - Create Your Analytics Cloud Instance
 - Quick Walk-through
 
-[Lab 300 - Using Oracle Analytics Cloud (OAC)](/Lab3/README.md)
+[Lab 300 - Using Oracle Analytics Cloud (OAC)](/provision-oac.md)
 - Create the connection from Oracle Analytics Cloud to Autonomous Database
 - Prepare the dataset
 - Create Visualizations using your data sets
