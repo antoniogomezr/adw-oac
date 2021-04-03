@@ -23,7 +23,7 @@ Estimated Workshop Time: 120 minutes
 - Create Your Free Trial Account
 - Sign in to Your Account
 
-[Lab 100 - Provisioning your Autonomous Database instance](/Lab1/README.md)
+[Lab 100 - Provisioning your Autonomous Database instance](/provision-atp.md)
 - Create Your Autonomous Database Instance
 - Quick Walk-through
 
