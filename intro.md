@@ -31,7 +31,7 @@ Estimated Workshop Time: 120 minutes
 - Create Your Analytics Cloud Instance
 - Quick Walk-through
 
-[Lab 300 - Loading data into ADW (ADW)](/oac.md)
+[Lab 300 - Loading data into ADW (ADW)](/adb-loading.md)
 - Create your user AuthToken
 - Load data from Object Storage into ADW
 - Load data as external table
