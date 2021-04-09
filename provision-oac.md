@@ -105,7 +105,7 @@ In the Identity Cloud Service page, click Create User button.
 To have the user log in to Oracle Identity Cloud Service with their email address, in the User Name field, enter the email address for the user account.
 Select the OCI Group for the new user
 
-![OAC Instance Active](./images/lab200_2_createuser2.png)
+![OAC Instance Active](./images/lab200_2_createuser.png)
 
 
 *You can proceed to the next lab…*
