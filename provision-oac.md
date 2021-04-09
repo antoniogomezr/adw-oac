@@ -157,8 +157,10 @@ Navigate to the catalog object and open permissions dialog Catalog objects can i
 
 ![OAC Instance Active](./images/lab200_3_createroleInclassic2.png)
 
-Search for the New Role
-Set the level of permissions (Modify)
+Search for the New Role.
+
+Set the level of permissions (Modify).
+
 When you grant catalog permissions through application roles, all the members you assign to that role inherit the same permissions
 
 ![OAC Instance Active](./images/lab200_3_createroleInclassic3.png)
