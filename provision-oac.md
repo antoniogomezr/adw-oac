@@ -94,13 +94,18 @@ in the top right hand side of your screen. If your username is shown as:
 
 1. From the Oracle Cloud Infrastructure Console, click the navigation menu Navigation menu icon in the top left corner, expand Identity, and then click Federation.
 
+![OAC Instance Active](./images/lab200_2_createuser0.png)
 
-2.- In the Federation page, click the Oracle Identity Cloud Service Console link.
-
-
-3.- In the Identity Cloud Service page, click Create User button.
+2. In the Federation page, click the Oracle Identity Cloud Service Console link.
+In the Identity Cloud Service page, click Create User button.
 
 ![OAC Instance Active](./images/lab200_1_idcs.png)
+
+3. Add new username information. In the First Name and Last Name fields of the Create User window, enter the user’s first and last name.
+To have the user log in to Oracle Identity Cloud Service with their email address, in the User Name field, enter the email address for the user account.
+Select the OCI Group for the new user
+
+![OAC Instance Active](./images/lab200_2_createuser2.png)
 
 
 *You can proceed to the next lab…*
