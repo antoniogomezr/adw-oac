@@ -103,9 +103,18 @@ In the Identity Cloud Service page, click Create User button.
 
 3. Add new username information. In the First Name and Last Name fields of the Create User window, enter the user’s first and last name.
 To have the user log in to Oracle Identity Cloud Service with their email address, in the User Name field, enter the email address for the user account.
-Select the OCI Group for the new user
+Select the OCI Group for the new user and click create.
+We propose to use a generic john.doe@mail.com user
 
 ![OAC Instance Active](./images/lab200_2_createuser.png)
+
+*STEP 3**: Give appropiate access and permissions to user in OAC
+
+Let' create a new custom role into OAC and assign that role to our new user
+
+1. From the Oracle Analytics Cloud Service Console, click the navigation menu Navigation menu icon in the top left corner, expand and click Console.
+
+![OAC Instance Active](./images/lab200_2_createuser0.png)
 
 
 *You can proceed to the next lab…*
