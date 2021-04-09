@@ -90,6 +90,18 @@ in the top right hand side of your screen. If your username is shown as:
 
     ![OAC Instance Active](./images/lab200_8.png)
 
+## **STEP 2**: Create an Oracle Cloud User
+
+1. From the Oracle Cloud Infrastructure Console, click the navigation menu Navigation menu icon in the top left corner, expand Identity, and then click Federation.
+
+
+2.- In the Federation page, click the Oracle Identity Cloud Service Console link.
+
+
+3.- In the Identity Cloud Service page, click Create User button.
+
+![OAC Instance Active](./images/lab200_8.png)
+
 
 *You can proceed to the next lab…*
 
