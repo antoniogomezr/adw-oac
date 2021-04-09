@@ -100,7 +100,7 @@ in the top right hand side of your screen. If your username is shown as:
 
 3.- In the Identity Cloud Service page, click Create User button.
 
-![OAC Instance Active](./images/lab200_8.png)
+![OAC Instance Active](./images/lab200_1_idcs.png)
 
 
 *You can proceed to the next lab…*
