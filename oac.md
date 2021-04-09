@@ -165,6 +165,7 @@ existing projects.
 8. The **Data Set** was successfully **added**.
 
 ## **STEP 3**: Create Visualizations using your data sets
+Before going forward Click on the Time_ID column and look at the recommendations on the right hand side. From here you could extract information from the column with very low effort. 
 
 1. Create a new project by clicking **Create Project**.
 
