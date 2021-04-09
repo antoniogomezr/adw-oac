@@ -108,13 +108,14 @@ We propose to use a generic john.doe@mail.com user
 
 ![OAC Instance Active](./images/lab200_2_createuser.png)
 
-*STEP 3**: Give appropiate access and permissions to user in OAC
+
+## **STEP 3**: Give appropiate access and permissions to user in OAC
 
 Let' create a new custom role into OAC and assign that role to our new user
 
 1. From the Oracle Analytics Cloud Service Console, click the navigation menu Navigation menu icon in the top left corner, expand and click Console.
 
-![OAC Instance Active](./images/lab200_2_createuser0.png)
+![OAC Instance Active](./images/lab200_3_console.png)
 
 
 *You can proceed to the next lab…*
