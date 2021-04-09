@@ -90,7 +90,7 @@ in the top right hand side of your screen. If your username is shown as:
 
     ![OAC Instance Active](./images/lab200_8.png)
 
-## **STEP 2**: Create an Oracle Cloud User
+## **STEP 2**: Create an Oracle Cloud User - OPTIONAL
 
 1. From the Oracle Cloud Infrastructure Console, click the navigation menu Navigation menu icon in the top left corner, expand Identity, and then click Federation.
 
@@ -109,14 +109,61 @@ We propose to use a generic john.doe@mail.com user
 ![OAC Instance Active](./images/lab200_2_createuser.png)
 
 
-## **STEP 3**: Give appropiate access and permissions to user in OAC
+## **STEP 3**: Give appropiate access and permissions to user in OAC - OPTIONAL
 
 Let' create a new custom role into OAC and assign that role to our new user
 
-1. From the Oracle Analytics Cloud Service Console, click the navigation menu Navigation menu icon in the top left corner, expand and click Console.
+1. From the Oracle Analytics Cloud Service Console, click the navigation menu icon in the top left corner, expand and click Console and then select Users and Roles
 
 ![OAC Instance Active](./images/lab200_3_console.png)
 
+![OAC Instance Active](./images/lab200_3_userroles.png)
+
+2. Click the Application Roles tab, then Click Add.
+Enter a name and describe the application role. Click Save. Initially, new application roles don't have any members or privileges.
+Example: Analists | Analists
+
+![OAC Instance Active](./images/lab200_3_createrole.png)
+
+3. Add privileges to the new application role: 
+Click the action menu on the new created Role "Analists".
+Select Manage Application Roles.
+
+![OAC Instance Active](./images/lab200_3_createrole2.png)
+
+Click Search with * in the search box.
+Select "DV Content Author" and the arrow pointing to the right
+
+![OAC Instance Active](./images/lab200_3_createrole3.png)
+
+4. Add user to the role:  
+Click the action menu on the new created Role "Analists".
+Select Manage Members.
+
+![OAC Instance Active](./images/lab200_3_createrole3.png)
+
+Click Search with the * in the search box.
+Select our new user
+
+![OAC Instance Active](./images/lab200_3_createrole4.png)
+
+5. Add access to Catalog Objects
+
+Open Classic Home from the top right menu icon
+
+![OAC Instance Active](./images/lab200_3_createroleInclassic1.png)
+
+Navigate to the catalog object and open permissions dialog Catalog objects can include folders, projects and so on.
+
+![OAC Instance Active](./images/lab200_3_createroleInclassic2.png)
+
+Search for the New Role
+Set the level of permissions (Modify)
+When you grant catalog permissions through application roles, all the members you assign to that role inherit the same permissions
+
+![OAC Instance Active](./images/lab200_3_createroleInclassic3.png)
+
+![OAC Instance Active](./images/lab200_3_createroleInclassic4.png)
 
 *You can proceed to the next lab…*
 
@@ -125,3 +172,6 @@ Let' create a new custom role into OAC and assign that role to our new user
 - **Author** - Priscila Iruela - Database Business Development | Juan Antonio Martin Pedro - Analytics Business Development
 - **Contributors** - Victor Martin, Melanie Ashworth-March, Andrea Zengin
 - **Last Updated By/Date** - Kamryn Vinson, October 2020
+
+- **Optional Part** - Antonio Gomez, April 2021
+
