@@ -354,7 +354,7 @@ Before going forward Click on the Time_ID column and look at the recommendations
 
 27. We can see the **graph without the Trend Linear line**.
 
-    ![OAC canvas Trend Linear](./images/lab300_56.png)
+    ![OAC canvas Trend Linear](./images/lab300_56.PNG)
 
 28. Select **PRODUCT_CATEGORY** from **SH&#95;PRODUCTS** and add it in **the Trellis Columns** section of the canvas.
 
